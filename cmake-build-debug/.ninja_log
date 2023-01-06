@@ -1,0 +1,7 @@
+# ninja log v5
+2	3492	6947259588940459	CMakeFiles/rationalatcampus2.dir/main.cpp.obj	3e2e86ebd1f333a2
+11	3443	6947259588450459	CMakeFiles/rationalatcampus2.dir/rationalNumber.cpp.obj	a066e37b6a04d21
+3492	6144	6947259615457118	rationalatcampus2.exe	481ee32ea87593a5
+5	2724	6947261535681592	CMakeFiles/rationalatcampus2.dir/main.cpp.obj	9170553d3a823c3f
+9	2732	6947261535781983	CMakeFiles/rationalatcampus2.dir/rationalNumber.cpp.obj	5da6873625158501
+2732	5358	6947261562052163	rationalatcampus2.exe	481ee32ea87593a5
